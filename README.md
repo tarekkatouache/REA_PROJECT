@@ -1,2 +1,5 @@
 # REA_PROJECT
 GITHUB PROJECT
+
+
+### Project Notes
